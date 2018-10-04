@@ -1,4 +1,4 @@
-Short Project 1, SG1 20--> Shivani Thakkar, Param Parikh
+Param Parikh
 
 DoublyLinkedList extends SinglyLinkedList
 Driver operations:
