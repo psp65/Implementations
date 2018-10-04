@@ -6,8 +6,7 @@ import java.util.Scanner;
 import java.util.NoSuchElementException;
 
 /**  
- * @author rbk
- * Singly linked list: for instructional purposes only
+ * @author Param Parikh
  * @param <T>
  */
 
