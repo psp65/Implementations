@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Param Parikh, Shivani Thakkar
+ * @author Param Parikh
  * @param <T>
  */
 
