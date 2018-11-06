@@ -1,8 +1,7 @@
 /** Project: Implementation of topological sorting of a directed acyclic graph
- *  @author shiva prasad reddy bitla sxb180066
  *  @author Param Parikh psp170230
  */
-package sxb180066;
+package psp170230;
 
 import rbk.Graph;
 import rbk.Graph.Vertex;
