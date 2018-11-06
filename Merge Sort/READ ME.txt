@@ -1,0 +1,9 @@
+1. Run SP9.java
+
+Menu:
+	1. Insertion sort
+	2. MergeSort Take1
+	3. MergeSort Take2
+	4. MergeSort Take3
+
+3. See Pictures for output snaps and output.pdf for tabular output & observations
